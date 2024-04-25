@@ -1,0 +1,11 @@
+{
+  "name": "mario-kart-racing-simulator",
+  "version": "1.0.0",
+  "description": "Mario Kart inspired racing simulator implemented using Node.js for backend management and real-time communication.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Daniel Gehlen",
+  "license": "MIT"
+}
